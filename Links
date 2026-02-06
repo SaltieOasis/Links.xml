@@ -1,0 +1,51 @@
+<news>
+	<entry>
+		<date>2023-11-20 19:00:00Z</date>
+		<title>VOTE</title>
+		<text>Voting supports the server and gives you materials in game to craft rare and powerful items.
+		
+		Click the link below to vote!
+		</text>
+		<link>https://7daystodie-servers.com/server/101794/vote/</link>
+	</entry>
+	<entry>
+		<date>2023-11-20 19:00:00Z</date>
+		<title>SHOP</title>
+		<text>You can use the sand dollar in game currency to buy items and materials from the online shop. 
+			
+		See Balance: /bal or /wallet
+		Claim After Purchase: /claim
+		
+		Click the link below to shop!
+		</text>
+		<link>https://us.csmm.app/shop/2001</link>
+	</entry>
+	<entry>
+		<date>2023-11-20 19:00:00Z</date>
+		<title>MAP</title>
+		<text>You can use view the live map including seeing yourself, POIS, and trader locations. 
+		Login to steam to access these features.
+		
+		Click the link below for Map!
+		</text>
+		<link>http://144.48.104.134:26913/static/index.html</link>
+	</entry>
+	<entry>
+		<date>2023-11-20 19:00:00Z</date>
+		<title>DISCORD</title>
+		<text>We have more information about the server and mods in our discord. We also have events and giveaways.
+		
+		Click the link below to join!
+		</text>
+		<link>https://discord.gg/theoasisgaming</link>
+	</entry>
+	<entry>
+		<date>2023-11-20 19:00:00Z</date>
+		<title>WEBSITE</title>
+		<text>You can visit our website to see more about The Oasis and the other games we host.
+		
+		Click the link below to visit!
+		</text>
+		<link>https://oasisgg.us/7-days-to-die/#serverinfo</link>
+	</entry>
+</news>
